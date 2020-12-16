@@ -29,6 +29,16 @@
       "comparison": "included",
       "timeout": 10,
       "points": 10
+    },
+    {
+      "name": "fact 0",
+      "setup": "g++ -std=c++11 main.cpp",
+      "run": "./a.out",
+      "input": "0",
+      "output": "1",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
     }
   ]
 }
