@@ -22,8 +22,8 @@
     },
     {
       "name": "fact 3",
-      "setup": "",
-      "run": "g++ -std=c++11 main.cpp",
+      "setup": "g++ -std=c++11 main.cpp",
+      "run": "./a.out",
       "input": "3",
       "output": "6",
       "comparison": "included",
