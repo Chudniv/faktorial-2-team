@@ -1,2 +1,2 @@
 language = "cpp"
-run = "g++ -std=c++11 main.cpp"
+run = "g++ -std=c++11 main.cpp "
