@@ -8,7 +8,8 @@ long double fact(int N)
     if (N == 0) // если пользователь ввел ноль,
         return 1; // возвращаем факториал от нуля - не удивляетесь, но это 1 =)
     else // В
-        return N * fact(N - 1); // делаем 
+        return N * fact(N - 1); // делае
+        
 }
 
 int main(){
