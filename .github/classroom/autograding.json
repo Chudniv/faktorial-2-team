@@ -2,8 +2,8 @@
   "tests": [
     {
       "name": "fact 1",
-      "setup": "",
-      "run": "g++ -std=c++11 hello.cpp",
+      "setup": "g++ -std=c++11 hello.cpp",
+      "run": "./a.out",
       "input": "1",
       "output": "1",
       "comparison": "included",
