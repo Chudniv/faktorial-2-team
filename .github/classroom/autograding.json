@@ -32,7 +32,7 @@
     },
     {
       "name": "fact 0",
-      "setup": "g++ -std=c++11 ",
+      "setup": "g++ -std=c++11 main.cpp",
       "run": "./a.out",
       "input": "0",
       "output": "1",
